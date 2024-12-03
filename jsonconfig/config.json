@@ -1,0 +1,4 @@
+{
+	"intervalo_muestreo":	4,
+	"metricas":	["disk_usage", "network_usage", "minor_page"]
+}
